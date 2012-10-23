@@ -1,5 +1,5 @@
 # XML to JSON parser in node.js
-*author:  Michael Smith*
+### **author:  Michael Smith**
 ====
 
 Content here!
